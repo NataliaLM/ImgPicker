@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">[Sesión 03] ImgPicker</string>
+    <string name="action_settings" translatable="false">Ajustes</string>
+    <string name="img_desc">Imagen</string>
+    <string name="strActionPicker">Elija una imagen utilizando&#8230;</string>
+</resources>
